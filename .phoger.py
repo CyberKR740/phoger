@@ -42,7 +42,7 @@ Banner = '''
 |_|   |_| |_|\___/ \____|\___|_|'''
 
 print(n4+Banner+'\033[m')
-print(n4+'Random_Phone_Number_Gerator\n\033[m')
+print(n4+'Generate_Random_Phone_Number\n\033[m')
 print(n4+' |---- :'+n5+' Author  : %s\033[m' %(__author__))
 print(n4+' |---- :'+n5+' Version : %s\n\033[m' %(__version__))
 
