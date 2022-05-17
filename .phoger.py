@@ -1,7 +1,7 @@
 #!/usr/bin/evn python3
 # encoding: utf-8
 
-# [Github] www.github.com/Xdwnff-04x
+# [Github] www.github.com/GMagNLL
 # [Telegram - Channel] t.me/joinchat/AAAAAEANZwsT9F2Y-aBVIQ
 # 
 # [License]
